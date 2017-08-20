@@ -1,4 +1,4 @@
-ud989-cat-clicker-ko-starter
+cat-clicker-knockout.js
 ============================
 
-ud989-cat-clicker-ko-starter
+Experimenting and playing with Knockout.js
